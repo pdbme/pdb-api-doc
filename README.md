@@ -1,5 +1,5 @@
 # pdb-api-doc
-API Documention for an adult database
+API Documention for porndb.me - porn database with API
 
 Examples and Documentation how to query the API in our WIKI:
 https://github.com/pdbme/pdb-api-doc/wiki
