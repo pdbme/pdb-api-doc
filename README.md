@@ -3,11 +3,11 @@ API Documention for porndb.me - porn database with API
 
 Examples and Documentation how to query the API in our WIKI:
 
-https://github.com/pdbme/pdb-api-doc/wiki
+(Documentation on GitHub)[https://github.com/pdbme/pdb-api-doc/wiki]
 
 Register API key and see reallife app usage on
 
-https://app.porndb.me
+(app.porndb.me)[https://app.porndb.me]
 
 ## About
 
