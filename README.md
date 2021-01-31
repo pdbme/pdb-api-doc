@@ -5,7 +5,7 @@ Examples and Documentation how to query the API in our WIKI:
 
 [Documentation on GitHub](https://github.com/pdbme/pdb-api-doc/wiki)
 
-Register API key and see reallife app usage on
+Register an API key and see the api in action on:
 
 [app.porndb.me](https://app.porndb.me)
 
