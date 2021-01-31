@@ -11,6 +11,6 @@ Register API key and see reallife app usage on
 
 ## About
 
-Our database offers a JSON API for porn. We index scene xxx releases, various pornsites and are able to provide images and preview videos for 0-day porn.
+Our database offers a JSON API for porn. We index adult releases, various pornsites and are able to provide images and preview videos for high-quality porn releases.
 
 RSS feeds enable usenet customers to automate downloads from usenet.
